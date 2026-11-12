@@ -1,0 +1,11 @@
+{
+  "units": "INR per 10 grams, 24K (999)",
+  "xau_api": "https://api.gold-api.com/price/XAU",
+  "fx_api": "https://open.er-api.com/v6/latest/USD",
+  "troy_oz_grams": 31.1034768,
+  "low_point_inr_per_10g": null,
+  "whatsapp_phone": "91XXXXXXXXXX",
+  "callmebot_apikey": "",
+  "min_hours_between_alerts": 12,
+  "_how_to_set": "Replace whatsapp_phone with your number (country code, no +), request your key from CallMeBot (+34 621 331 709, message: I allow callmebot to send me messages), paste the key in callmebot_apikey, and set low_point_inr_per_10g."
+}
